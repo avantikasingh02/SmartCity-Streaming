@@ -1,10 +1,10 @@
 **SMART CITY STREAMING PROJECT**
 
-##PROJECT OVERVIEW:
+**PROJECT OVERVIEW**:
 
 The goal of this project is to develop a thorough real-time data streaming pipeline for a Smart City project. It records and analyzes real-time data from a car on its way from London to Birmingham, including GPS data, camera footage, emergency incidents, weather, and vehicle data. To guarantee effective data ingestion, processing, storage, and visualization, the pipeline makes use of a combination of Internet of Things devices, Apache Kafka, Apache Spark, Docker, and AWS services.
 
-##TECHNOLOGIES USED:
+**TECHNOLOGIES USED**:
 
 - IoT Devices: For capturing real-time data.
 - Apache Zookeeper: For managing and coordinating Kafka brokers.
@@ -20,7 +20,7 @@ The goal of this project is to develop a thorough real-time data streaming pipel
   - Redshift: For data warehousing and analytics.
 - Amazon QuickSight: For data visualization and dashboarding.
 
-##PROJECT WORKFLOW
+**PROJECT WORKFLOW**
 
 1. DATA INGESTION:
    - IoT devices capture real-time data.
@@ -41,6 +41,6 @@ The goal of this project is to develop a thorough real-time data streaming pipel
 5. DATA VISUALIZATION:
    - Amazon QuickSight visualizes the queried data with interactive dashboards.
 
-##CONCLUSION
+**CONCLUSION**
 
 This project demonstrates the power of modern data engineering tools to handle complex, real-time data streams and deliver actionable insights for Smart City initiatives. The use of AWS services ensures scalability, reliability, and ease of data management, making it an excellent example of an end-to-end data streaming pipeline.
