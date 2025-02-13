@@ -6,19 +6,19 @@ The goal of this project is to develop a thorough real-time data streaming pipel
 
 **TECHNOLOGIES USED**:
 
-- IoT Devices: For capturing real-time data.
-- Apache Zookeeper: For managing and coordinating Kafka brokers.
-- Apache Kafka: For real-time data ingestion into different topics.
-- Apache Spark: For real-time data processing and streaming.
-- Docker: For containerization and orchestration of Kafka and Spark.
-- Python: For data processing scripts.
-- AWS Cloud:
-  - S3: For storing processed data as Parquet files.
-  - Glue: For data extraction and cataloging.
-  - Athena: For querying processed data.
-  - IAM: For managing access and permissions.
-  - Redshift: For data warehousing and analytics.
-- Amazon QuickSight: For data visualization and dashboarding.
+- _IoT Devices_: For capturing real-time data.
+- _Apache Zookeeper_: For managing and coordinating Kafka brokers.
+- _Apache Kafka_: For real-time data ingestion into different topics.
+- _Apache Spark_: For real-time data processing and streaming.
+- _Docker_: For containerization and orchestration of Kafka and Spark.
+- _Python_: For data processing scripts.
+- _AWS Cloud_:
+  - _S3_: For storing processed data as Parquet files.
+  - _Glue_: For data extraction and cataloging.
+  - _Athena_: For querying processed data.
+  - _IAM_: For managing access and permissions.
+  - _Redshift_: For data warehousing and analytics.
+- _Amazon QuickSight_: For data visualization and dashboarding.
 
 **PROJECT WORKFLOW**
 
