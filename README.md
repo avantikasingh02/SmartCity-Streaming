@@ -13,7 +13,6 @@ This project implements a real-time data streaming pipeline for a Smart City ini
 
 ## 🏗️ **System Architecture**
 ![Alt text](SysArch.png)
-
 ## 📂 **Project Workflow**
 
 ### 1️⃣ Data Collection & Ingestion
