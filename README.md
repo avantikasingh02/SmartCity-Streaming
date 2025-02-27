@@ -90,9 +90,9 @@ cd smart-city-streaming
 - Ensure **Docker & Docker Compose** are installed.
 - Configure **Kafka & Spark** inside ```docker-compose.yml```.
 - Start the services:
-  ```
+```
 docker-compose up -d
-  ```
+```
 3️⃣ AWS Configuration
 - Set up **IAM roles** and permissions.
 - Configure **S3, Glue, and Athena** for data storage.
