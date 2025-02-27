@@ -12,7 +12,7 @@ This project implements a real-time data streaming pipeline for a Smart City ini
 - **Data Visualization** with **Power BI, Tableau, Looker Studio, and QuickSight**
 
 ## 🏗️ **System Architecture**
-
+![Alt text](SysArch.png)
 
 ## 📂 **Project Workflow**
 
