@@ -91,7 +91,7 @@ cd smart-city-streaming
 - Configure **Kafka & Spark** inside ```docker-compose.yml```.
 - Start the services:
   ```
-  docker-compose up -d
+docker-compose up -d
   ```
 3️⃣ AWS Configuration
 - Set up **IAM roles** and permissions.
